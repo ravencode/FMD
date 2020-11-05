@@ -11,10 +11,10 @@ FMD is a sytem which detects whether a person is wearing a mask or not.
   - Web Camera 
   -Using your webcam, the script applies face mask detection to every frame in the stream
   
-  -Lock System 
+  - Lock System 
   -To restrict access to an area based on info from model
   
-  -IR Thermometer
+  - IR Thermometer
   -To measure temprature of consumer and making sure they don't have fever
 
 # Software Specifications:
