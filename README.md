@@ -2,10 +2,6 @@
 
 FMD is a sytem which detects whether a person is wearing a mask or not.
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 # Hardware Specifications:
 
   - Web Camera 
