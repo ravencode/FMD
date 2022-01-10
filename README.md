@@ -34,4 +34,4 @@ Python libaries  used:
 
 - To download full project : https://drive.google.com/drive/folders/1e24x7CQPYI4gNkS_wVyKGF82jh1HSL8K?usp=sharing
 
-![alt text](https://ibb.co/xsPVp0G)
+https://ibb.co/xsPVp0G
